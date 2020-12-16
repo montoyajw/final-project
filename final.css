@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    text-size-adjust: 2;
+    color: coral; 
+    
+
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible;
+}
+
+p {
+    text-size-adjust: 2;
+    color: coral;
+    
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: right
+}
+
+body {
+    background: rgb(99, 151, 151);
+}
